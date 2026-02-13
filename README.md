@@ -70,15 +70,17 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=souravgguptan&show_icons=true&theme=radical&locale=en)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=souravgguptan&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=souravgguptan&theme=radical)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=souravgguptan&theme=radical" alt="GitHub Streak" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=souravgguptan&show_icons=true&theme=radical&locale=en&layout=compact)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souravgguptan&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
