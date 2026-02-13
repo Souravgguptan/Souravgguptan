@@ -70,26 +70,21 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=souravgguptan&show_icons=true&theme=radical&locale=en&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=souravgguptan&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
-</p>
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=souravgguptan&show_icons=true&theme=radical&locale=en)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=souravgguptan&show_icons=true&theme=radical&locale=en&layout=compact&hide_border=true" alt="Top Languages" width="48%" />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=souravgguptan&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=souravgguptan&show_icons=true&theme=radical&locale=en&layout=compact)
+
+</div>
 
 ---
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-</p>
 
 <p align="center">
   <em>💬 "Building solutions that make learning and work better through technology"</em>
 </p>
-
----
 
 <p align="center">
   <i>⭐ Feel free to explore my repositories and connect!</i>
